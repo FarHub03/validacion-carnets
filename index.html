@@ -8,7 +8,7 @@
 <style>
 body{
     font-family: Arial, sans-serif;
-    background:#f5f5f5;
+    background:linear-gradient(135deg,#f5f5f5,#e9eef5);
     display:flex;
     justify-content:center;
     align-items:center;
@@ -31,6 +31,32 @@ body{
     margin-bottom:20px;
 }
 
+#estado{
+    font-size:42px;
+    font-weight:bold;
+}
+
+#nombre{
+    margin-top:20px;
+    font-size:28px;
+}
+
+#mensaje{
+    margin-top:15px;
+    font-size:24px;
+}
+
+#fecha{
+    color:#666;
+    font-size:14px;
+    margin-top:20px;
+}
+
+.footer{
+    color:#777;
+    font-size:13px;
+}
+
 .activo{
     color:#0a8f08;
 }
@@ -45,11 +71,24 @@ body{
 
 <div class="card">
 
+<img
+src="https://visionsocial.org/wp-content/uploads/2023/03/logo-vision-social.png"
+alt="Visión Social"
+class="logo">
+
 <h1 id="estado">Consultando...</h1>
 
 <h2 id="nombre"></h2>
 
 <h3 id="mensaje"></h3>
+
+<p id="fecha"></p>
+
+<hr>
+
+<p class="footer">
+Asociación Visión Social
+</p>
 
 </div>
 
@@ -83,6 +122,10 @@ empleado.nombre;
 
 document.getElementById("estado").innerHTML =
 empleado.estado;
+
+document.getElementById("fecha").innerHTML =
+"Validado el " +
+new Date().toLocaleString("es-CO");
 
 if(
 empleado.estado.toUpperCase() === "ACTIVO"
