@@ -111,6 +111,10 @@ class="logo">
 <hr>
 
 <p class="footer">
+Documento validado en línea
+</p>
+
+<p class="footer">
 Asociación Visión Social
 </p>
 
@@ -131,14 +135,12 @@ e => e.token === token
 
 if(!empleado){
 
-document.getElementById("estado").innerHTML =
-"NO ENCONTRADO";
-
-document.getElementById("mensaje").innerHTML =
-"Token inválido";
+document.getElementById("estado").innerHTML="NO ENCONTRADO";
+document.getElementById("mensaje").innerHTML="Token inválido";
+document.getElementById("nombre").style.display="none";
+document.getElementById("fecha").style.display="none";
 
 return;
-
 }
 
 document.getElementById("nombre").innerHTML =
