@@ -11,16 +11,16 @@
   {"token":"SFJMPLAS9","nombre":"Edilberto Novoa Camargo","estado":"ACTIVO"},
   {"token":"BI3S3PY11","nombre":"Edwin Albeiro Esteban Castellanos","estado":"ACTIVO"},
   {"token":"15A7A6MMX","nombre":"Estefanía Calderón Niño","estado":"ACTIVO"},
-  {"token":"34N98SPUX","nombre":"Farith Sthifen Guzmán Jiménez","estado":"INACTIVO"},
+  {"token":"34N98SPUX","nombre":"Farith Sthifen Guzmán Jiménez","estado":"ACTIVO"},
   {"token":"KWMU3C7N8","nombre":"Gloria Edith Puentes Ávila","estado":"ACTIVO"},
   {"token":"RXB1NGP68","nombre":"Jorge Gilberto González Camargo","estado":"ACTIVO"},
   {"token":"C9W285YM7","nombre":"Julián Ricardo Gómez Niño","estado":"ACTIVO"},
   {"token":"5AC3EQCGE","nombre":"Lilo Serna Álvarez","estado":"ACTIVO"},
-  {"token":"Z7NB3A0C3","nombre":"Lised Milena Aquirre Sánchez","estado":"ACTIVO"},
+  {"token":"Z7NB3A0C3","nombre":"María Victoria Trujillo Moncada","estado":"ACTIVO"},
   {"token":"E73M4V5VU","nombre":"María Isabel Fernandes Cristovao","estado":"ACTIVO"},
   {"token":"H27HJ5NZO","nombre":"Maribel Betancur Cortes","estado":"ACTIVO"},
   {"token":"S5HTAIN0X","nombre":"Marina Camargo Abello","estado":"ACTIVO"},
-  {"token":"8T7W7WNQO","nombre":"Nadia Katherine Chacón Ortiz","estado":"ACTIVO"},
+  {"token":"8T7W7WNQO","nombre":"Nadia Katherine Chacón Ortiz","estado":"INACTIVO"},
   {"token":"YPGAA5X16","nombre":"Olga Yaneth Morales Castaño","estado":"ACTIVO"},
   {"token":"2G75SPMPL","nombre":"Poliana Carolina Otálora Cruz","estado":"ACTIVO"},
   {"token":"MEE1DAS67","nombre":"Rosa Avila Aponte","estado":"ACTIVO"},
@@ -28,4 +28,9 @@
   {"token":"74JDZCRK7","nombre":"Viviana Gil Rodríguez","estado":"ACTIVO"},
   {"token":"6PUT9NTP0","nombre":"William Andrey Suárez Moya","estado":"ACTIVO"},
   {"token":"V1C0G7ZGL","nombre":"Yecenia Córdoba Córdoba","estado":"ACTIVO"}
+  {"token":"34QPXMER8","nombre":"Brenda Beatriz Gómez Beltrán","estado":"ACTIVO"}
+  {"token":"7FQ9L5S6V","nombre":"María del Pilar Niño Arévalo","estado":"ACTIVO"}
+  {"token":"T67D2P8Z4L","nombre":"Maritza Ester Lugo Cervantes","estado":"ACTIVO"}
+  {"token":"KJH53E19Q","nombre":"Pamela Burgos Vargas","estado":"ACTIVO"}
+  {"token":"R7G8DD3AS","nombre":"Sandra Prieto Calderón","estado":"ACTIVO"}
 ]
