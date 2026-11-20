@@ -23,7 +23,7 @@
   {"token":"8T7W7WNQO","nombre":"Nadia Katherine Chacón Ortiz","estado":"INACTIVO"},
   {"token":"YPGAA5X16","nombre":"Olga Yaneth Morales Castaño","estado":"ACTIVO"},
   {"token":"2G75SPMPL","nombre":"Poliana Carolina Otálora Cruz","estado":"ACTIVO"},
-  {"token":"MEE1DAS67","nombre":"Rosa Avila Aponte","estado":"ACTIVO"},
+  {"token":"MEE1DAS67","nombre":"Rosa Avila Aponte","estado":"INACTIVO"},
   {"token":"3QS1ZQ579","nombre":"Sirley Andrea Hernández Suárez","estado":"ACTIVO"},
   {"token":"74JDZCRK7","nombre":"Viviana Gil Rodríguez","estado":"ACTIVO"},
   {"token":"6PUT9NTP0","nombre":"William Andrey Suárez Moya","estado":"ACTIVO"},
@@ -33,5 +33,6 @@
   {"token":"T67D2P8Z4L","nombre":"Maritza Ester Lugo Cervantes","estado":"ACTIVO"},
   {"token":"KJH53E19Q","nombre":"Pamela Burgos Vargas","estado":"ACTIVO"},
   {"token":"R7G8DD3AS","nombre":"Sandra Prieto Calderón","estado":"ACTIVO"},
-  {"token":"WK2FT95NA","nombre":"Camilo Andrés Jiménez Pinilla","estado":"ACTIVO"}
+  {"token":"WK2FT95NA","nombre":"Camilo Andrés Jiménez Pinilla","estado":"ACTIVO"},
+  {"token":"I6LX8P0SF","nombre":"Yisela Yolima Bautista Valderrama","estado":"ACTIVO"}
 ]
